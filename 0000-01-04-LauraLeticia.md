@@ -2,7 +2,7 @@ Prueba
 tercera
 de
 archivo
-porque
+debido a que
 lo
 hice
 mal
